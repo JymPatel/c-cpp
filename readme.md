@@ -1,5 +1,5 @@
 # C-LetsCollaborate
-various **c** program to enjoy and collaborate with others. 
+various **c** programs to enjoy and collaborate with others. 
 
 ## Super Important Notice
 THIS IS LICENSED UNDER [**GNU PUBLIC LICENSE V3**](LICENSE)  
